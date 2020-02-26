@@ -1,0 +1,1 @@
+# gauge-typescript-example
